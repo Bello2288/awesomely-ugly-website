@@ -17,7 +17,7 @@ body {
 }
 
 .ugly-picture {
-    background-image: url(../images/uglypicture1.jpeg);
+    background-image: url('../images/up1.jpeg');
     background-position: 50% 50%;
     background-size: cover;
     margin-left: 290px;
@@ -46,4 +46,14 @@ body {
     color: rgb(239, 147, 76);
     margin-top:425px;
 
+}
+
+.button {
+    background-color: brown;
+    color: rgb(71, 132, 11);
+    float: right;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-top: 180px;
 }

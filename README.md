@@ -16,18 +16,18 @@ Create a basic webpage.
   - js/main.js
 
 ## I'm a Web Developer Mode
-Project setup and HTML file
-create a new project folder in your code directory named awesomely-ugly-website
-add an HTML file named index.html
-Practice HTML
-create a simple web page with some HTML content; the uglier and more HTML you can muster, the better
-use a minimum of 10 different html elements
-Add Normalize.css to your web page
-CSS file
-add a CSS file named styles.css
-Practice CSS
-use a minimum of 4 different css selectors
-use a minimum of 10 different css style attributes
+1. Project setup and HTML file
+  - create a new project folder in your code directory named awesomely-ugly-website
+  - add an HTML file named index.html
+2. Practice HTML
+  - create a simple web page with some HTML content; the uglier and more HTML you can muster, the better
+  - use a minimum of 10 different html elements
+3. Add Normalize.css to your web page
+4. CSS file
+  - add a CSS file named styles.css
+5. Practice CSS
+  - use a minimum of 4 different css selectors
+  - use a minimum of 10 different css style attributes
 Add at least one image to your awesomely ugly site
 Use the float property to wrap text around an image
 JS file

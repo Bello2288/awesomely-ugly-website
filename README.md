@@ -1,4 +1,8 @@
 # Awesomely Ugly Website
+
+#### My thoughts
+  - It is amazing to look back and see how far I have come within a 12 week course. This simple page took so long that first night! I'm glad I can laugh about it now.
+
 ## Description
 Create a basic webpage.
 
@@ -28,16 +32,9 @@ Create a basic webpage.
 5. Practice CSS
     - use a minimum of 4 different css selectors
     - use a minimum of 10 different css style attributes
-Add at least one image to your awesomely ugly site
-Use the float property to wrap text around an image
-JS file
-add a JS file named main.js
-Add a button to your webpage that swaps out an image when you click it (hint: EventTarget.addEventListener())
-Deploy your site to GitHub
-Hey, Mikey, I Think He Likes It Mode
-Sadly, the <blink> tag has been removed from html, re-implement it with CSS animations!
-Scrolling marques really help grab the attention of would-be-customers, so add one to your site
-Add a footer to your site with an "under construction" animated gif
-Caffeinated Mode
-Create a web page layout that has two columns of content that are side-by-side
-Add a table of made up statistic calculations to your site (Like "# of Happy Vegetable Eaters by State")
+6. Add at least one image to your awesomely ugly site
+7. Use the float property to wrap text around an image
+8. JS file
+    - add a JS file named main.js
+9. Add a button to your webpage that swaps out an image when you click it (hint: EventTarget.addEventListener())
+10. Deploy your site to GitHub
